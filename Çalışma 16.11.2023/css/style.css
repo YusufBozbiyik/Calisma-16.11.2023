@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+#navbar{
+    width: 100%;
+    background-color: #003471;
+}
+
+.container{
+    width: 99%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+#logo a{
+    font-size: 25px;
+    font-weight: bold;
+    color : #da7426;
+}
+
+#logo a span{
+    color: #fff;
+}
+
+.orta{
+    color: #fff;
+}
+
+.orta i{
+    background-color: #159ec0;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.orta:hover{
+    
+}
